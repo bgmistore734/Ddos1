@@ -18,9 +18,9 @@ loop = asyncio.get_event_loop()
 
 TOKEN = '7317512300:AAExRYZK84_D7792SAiohQP0Q6VcTYRDsHo'
 MONGO_URI = 'mongodb+srv://admin:kpR4ObsewTySq48I@test.zeqrmgb.mongodb.net/test_db?retryWrites=true&w=majority&appName=piro&tlsAllowInvalidCertificates=true'
-FORWARD_CHANNEL_ID = -100
-CHANNEL_ID = -100
-error_channel_id = -100
+FORWARD_CHANNEL_ID = -1002214974751
+CHANNEL_ID = -1002214974751
+error_channel_id = -1002214974751
 
 logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s', level=logging.INFO)
 
